@@ -1,2 +1,1 @@
-# jasmine-before-after-protractor
-Sample Project to work with beforeAndafter jasmine functions in protractor.
+# protractor-e2e-gulp-framework
